@@ -20,6 +20,7 @@ _ReSharper.Caches
 Binaries
 Intermediate
 
+/proJectN1/Intermediate/CachedAssetRegistry_0.bin
 /proJectN1/Saved/
 /proJectN1/Test/
 /proJectN1/Build/
@@ -33,4 +34,4 @@ Intermediate
 /proJectN1/Config/XB1/Generated*
 /proJectN1/Config/XSX/Generated*
 
-Client/Config/HoloLens/HoloLensEngine.ini
+proJectN1/Config/HoloLens/HoloLensEngine.ini
